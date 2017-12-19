@@ -1,2 +1,2 @@
 # Build
-A collection of use building scrips 
+A collection of useful building scrips 
